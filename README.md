@@ -10,23 +10,29 @@ To run this project, you'll need the following libraries installed:
 - **MediaPipe** `mediapipe`
 - **PyAutoGUI** `pyautogui`
 
-You can install the required libraries using pip:
+You can install the required libraries using **pip**:
 
-```bash
-pip install opencv-python mediapipe pyautogui
+**pip install opencv-python mediapipe pyautogui**
 
-🎮 How to Use
-Run the Script: Start the script and ensure your webcam is active.
-Gesture Control:
-Pinch your thumb and index finger together to decrease the volume.
-Move your thumb and index finger apart to increase the volume.
-Exit: Press the Esc key to exit the application.
 
-🔧 Troubleshooting
-Make sure your webcam is working and accessible by the script.
-Ensure that you have all the required libraries installed.
+## **🎮 How to Use**
 
-📄 License
+- Run the Script: Start the script and ensure your webcam is active.
+
+- Gesture Control: Pinch your thumb and index finger together to decrease the volume. Move your thumb and index finger apart to increase the volume.
+
+- Exit: Press the Esc key to exit the application.
+
+
+## **🔧 Troubleshooting**
+
+- Make sure your webcam is working and accessible by the script.
+
+- Ensure that you have all the required libraries installed.
+
+
+## **📄 License**
+
 This project is licensed under the MIT License. Feel free to use, modify, and distribute this project as you wish.
 
 
