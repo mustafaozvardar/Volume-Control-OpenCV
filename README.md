@@ -12,7 +12,11 @@ To run this project, you'll need the following libraries installed:
 
 You can install the required libraries using **pip**:
 
-**pip install opencv-python mediapipe pyautogui**
+**-> pip install opencv-python**
+
+**-> pip install mediapipe**
+
+**-> pip install pyautogui**
 
 
 ## **🎮 How to Use**
